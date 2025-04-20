@@ -4,8 +4,8 @@
 This project focuses on implementing a database system for managing concert ticket sales. Built using Microsoft Excel, it simulates real-world ticket agency operations through data analysis, structured worksheets, dashboard visualizations, and financial modeling. The goal is to enhance efficiency, accuracy, and clarity in ticket management and financial reporting.
 
 ## 💡 PHOTO
-![a](./ERD.png)
-![ERD](./ERD.png)
+![Dashboard](./dashboard.png)
+![Relation](./relation.png)
 
 ## 💡 Objective
 - Develop a structured digital system to manage product inventory, transactions, and financial details
